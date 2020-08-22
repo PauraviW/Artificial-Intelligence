@@ -1,0 +1,5 @@
+batch_size=1000
+current_strategy=euclidean
+no_of_neighbors=55
+train_x_file=knn_train_x.txt
+train_y_file=knn_train_y.txt
